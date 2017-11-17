@@ -37,9 +37,11 @@ K. Yun, J. Lim, and J. Y. Choi, “Scene conditional background update for movin
 
 Video Result
 --------------------------------------------------------------------------------
-1. Scene Conditional Background Update for Moving Object Detection in a Moving Camera
+1. [Pattern Recognition Letters 17] Scene Conditional Background Update for Moving Object Detection in a Moving Camera
 
 [![SCBU](https://img.youtube.com/vi/ZNFZzhQgjkc/0.jpg)](https://youtu.be/ZNFZzhQgjkc "SCBU")
 
 2. (Previous Version) [ICIP'15] Robust and Fast Moving Object Detection in a Non-Stationary Camera via Foreground Probability based Sampling
+
+[![ICIP](https://img.youtube.com/vi/2UOu4OuBYUs/0.jpg)](https://www.youtube.com/watch?v=2UOu4OuBYUs "ICIP")
 
