@@ -14,7 +14,7 @@ SMCS_Detection.exe <video_path> <write option>
 1: "result" directory is made, and the foreground results (jpeg images) are saved.
 0: Not save
 
-[Example]
+Example:
 SMCS_Detection.exe "video/cheetah.avi" 1
 
 
@@ -37,5 +37,5 @@ K. Yun, J. Lim, and J. Y. Choi, “Scene conditional background update for movin
 
 Video Result
 --------------------------------------------------------------------------------
-[SCBU result](https://youtu.be/ZNFZzhQgjkc)
+[![Everything Is AWESOME](https://img.youtube.com/vi/ZNFZzhQgjkc/0.jpg)](https://youtu.be/ZNFZzhQgjkc "Everything Is AWESOME")
 
