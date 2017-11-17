@@ -5,6 +5,7 @@ This  Git repository  is an  binary exe file of  the journal paper  "Scene Condi
 
 Paper: http://www.sciencedirect.com/science/article/pii/S0167865517300260
 
+
 Usage
 --------------------------------------------------------------------------------
 SMCS_Detection.exe <video_path> <write option>
@@ -30,18 +31,11 @@ All rights reserved.
 
 This  software is  strictly for  non-commercial use  only.  
 For  commercial use, please  contact  me at  kimin.yun (at) gmail.com or kimin.yun (at) etri.re.kr
-Also,  when used  for academic  purposes, please  cite the  paper  "Detection of  Moving Objects  with
-Non-stationary  Cameras  in 5.8ms:  Bringing  Motion  Detection to  Your  Mobile
-Device," Yi et al, CVPRW 2013 
+Also,  when used  for academic  purposes, please  cite the  paper: 
+K. Yun, J. Lim, and J. Y. Choi, “Scene conditional background update for moving object detection in a moving camera,” Pattern Recognition Letters, vol. 88, pp. 57–63, 2017. 
 
 
-About the test video
+Video Result
 --------------------------------------------------------------------------------
+[SCBU result](https://youtu.be/ZNFZzhQgjkc)
 
-The test video is the cycle and cheetah data downloaded from the YouTube.
-
-If you use  it,  please   cite,  Amit  Adam,  Ehud  Rivlin,   Ilan  Shimshoni:  "Robust
-Fragments-based  Tracking  using the  Integral  Histogram."   Proc.  CVPR  2006,
-pp. 798-805
-
- 
