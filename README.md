@@ -1,7 +1,9 @@
 Scene Conditional Background Update for Moving Object Detection in a Moving Camera
 ================================================================================
 
-This  Git repository  is an  binary exe file of  the paper  "DScene Conditional Background Update for Moving Object Detection in a Moving Camera," Yun et al., Pattern Recongition Letters, 2017. 
+This  Git repository  is an  binary exe file of  the journal paper  "Scene Conditional Background Update for Moving Object Detection in a Moving Camera," Yun et al., Pattern Recongition Letters, 2017. 
+
+Paper: http://www.sciencedirect.com/science/article/pii/S0167865517300260
 
 Usage
 --------------------------------------------------------------------------------
