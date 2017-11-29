@@ -49,7 +49,7 @@ Video Result
 Other Links
 --------------------------------------------------------------------------------
 
-Dataset links and other papers infos are shown at 
+Dataset links & other papers 
 
 https://sites.google.com/view/kiminyun/publication
 
