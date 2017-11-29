@@ -45,3 +45,12 @@ Video Result
 
 [![ICIP](https://img.youtube.com/vi/2UOu4OuBYUs/0.jpg)](https://www.youtube.com/watch?v=2UOu4OuBYUs "ICIP")
 
+
+Other Links
+--------------------------------------------------------------------------------
+
+Dataset links and other papers infos are shown at 
+
+https://sites.google.com/view/kiminyun/publication
+
+
